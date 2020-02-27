@@ -2,9 +2,9 @@
 
 -<project default="compile">
 
-<property location="C:\Users\Msys\eclipse-workspace\calc\src\calc" name="src.java.dir"/>
+<property location="C:\Users\Msys\eclipse-workspace\calc\src\calc\code" name="src.java.dir"/>
 
-<property location="C:\Users\Msys\eclipse-workspace\calc\src\calc" name="src.test.dir"/>
+<property location="C:\Users\Msys\eclipse-workspace\calc\src\calc\test" name="src.test.dir"/>
 
 <property location="./target" name="result.dir"/>
 
